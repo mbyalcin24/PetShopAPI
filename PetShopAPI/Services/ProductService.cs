@@ -35,7 +35,7 @@ namespace PetShopAPI.Services
            
             return newproduct; //return wert ist liste
 
-
+            //Testkommentar für Github update
             
         }
         public async Task<Product> ReadProduct(int id) {  //model klasse für user input
